@@ -1,0 +1,56 @@
+.nav-item {
+    padding-right: 10px;
+    margin: auto;
+}
+
+.navbar-brand {
+    padding-right: 300px;
+}
+
+.cartas {
+    padding-right: 300px;
+    padding-left: 300px;
+    padding-top: 50px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.row {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.col {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.campos {
+    width: 100%;
+    margin-bottom: 10px;
+    overflow: hidden;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.cantidad-input,
+.categoria {
+    float: left;
+}
+
+.boton {
+    background-color: yellowgreen !important;
+    border: 0ch;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.nav-item1 {
+    background-color: rgba(2, 2, 63, 0.89) !important;
+    height: 90px;
+    width: 190px;
+    text-align: center;
+    font-size: medium;
+}

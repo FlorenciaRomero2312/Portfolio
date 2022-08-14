@@ -1,0 +1,64 @@
+.codo
+{
+    padding-left: 50px;
+}
+.nav-link
+{
+    font-size: smaller;
+}
+.confbsas
+{
+    background-image: url(../IMAGENES/ba1.jpg);
+    background-position:calc(100%);
+    width: auto; 
+    text-align: right; 
+    height: 500px; 
+    padding-left: 300px; 
+    padding-right: 100px; 
+    padding-top: 200px;
+}
+.card-group
+{
+    margin-left: 200px; 
+    margin-right: 200px;
+}
+.card
+{
+    margin-right: 20px;
+}
+.card-text
+{
+    font-size:smaller;
+}
+.conv
+{
+    margin-left: 300px;
+     margin-right: 300px;
+    }
+.div-der 
+{
+    background-image: url(../IMAGENES/honolulu.jpg);
+    background-size:cover;
+}
+.div-izq
+{
+    background-color: rgb(53, 53, 53); 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.or
+{
+    font-size: smaller;
+}
+.boton 
+{
+    background-color: yellowgreen !important; 
+    border: 0ch;
+}
+.nav-item1
+{
+    background-color:rgba(2, 2, 63, 0.89)!important ; 
+    height:90px; 
+    width: 190px; 
+    text-align: center; 
+    font-size:medium;
+} 
